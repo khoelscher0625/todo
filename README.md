@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+To-do is a single page application that lets you create a to-do list and then mark those items with a strikethrough when they are completed. 
 
-Things you may want to cover:
+[To-Do] https://todoster-kathryn-hoelscher.herokuapp.com/
 
-* Ruby version
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
