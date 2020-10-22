@@ -8,3 +8,11 @@ To-do is a single page application that lets you create a to-do list and then ma
 
 Built with:
  * Ruby on Rails
+ * SCSS
+ * HTML 
+ * JavaScript
+ * CSS 
+ * CoffeeScript
+ 
+ Contributers: 
+  * sole developer
